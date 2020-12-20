@@ -8,9 +8,7 @@ This repository attempts to depict how to implement object tracker on resource-c
 # Inference:
 
 To run real time inference:
-
-cd to deployment folder:
-python detect_realtime.py.
+python object_tracker.py.
 Note that --input, --confidence,  --cosine_distance, --nms_thresholdare, --classes, --direction_mode and --output are optional. One can ajust any of those commands line to their need. 
   - --input is the path to input video
   - --confidence is the  minimum proba to filter weak detections
