@@ -1,5 +1,5 @@
 # People-counter-ssdmobilenet-Deepsort-on-Edge-device-raspberry-pi-Coral-EdgeTpu
-<img src="/result.gif" width="400" height="400"/>
+<img src="/result.gif" width="300" height="300"/>
 
 This repository attempts to depict how to implement object tracker on resource-constrained hardware (raspberry-pi Coral Edge TPU usb Accelerator). For instance it can be use to track people entering/exiting a store. It demostrates how to implementates and perform realtime tracking with Tensorflow using a SSD model trained v2 pretrained model.The object tracking is based on the Simple Online and Realtime Tracking with a Deep Association Metric (Deep SORT)[https://github.com/nwojke/deep_sort] algorithm.
 
