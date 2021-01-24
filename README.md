@@ -1,9 +1,9 @@
 # People-counter-ssdmobilenet-Deepsort-on-Edge-device-raspberry-pi-Coral-EdgeTpu
 <img src="/result.gif" width="350" height="300"/>
 
-This repository attempts to depict how to implement object tracker on resource-constrained hardware (raspberry-pi Coral Edge TPU usb Accelerator). For instance it can be use to track people entering/exiting a store. It demostrates how to implementates and perform realtime tracking with Tensorflow using a SSD model trained v2 pretrained model.The object tracking is based on the Simple Online and Realtime Tracking with a Deep Association Metric [Deep SORT][https://github.com/nwojke/deep_sort] algorithm.
+This repository attempts to depict how to implement object tracker on resource-constrained hardware (raspberry-pi Coral Edge TPU usb Accelerator). For instance it can be use to track people entering/exiting a store. It demostrates how to implementates and perform realtime tracking with Tensorflow using a SSD model trained v2 pretrained model.The object tracking is based on the Simple Online and Realtime Tracking with a Deep Association Metric [Deep SORT](https://github.com/nwojke/deep_sort) algorithm.
 
-  - Please follow [Pyimagesearch's tutorial][https://www.pyimagesearch.com/2019/04/22/getting-started-with-google-corals-tpu-usb-accelerator] to setup the rasberry pi for google coral's TPU usb Accelerator.
+  - Please follow [Pyimagesearch's tutorial](https://www.pyimagesearch.com/2019/04/22/getting-started-with-google-corals-tpu-usb-accelerator) to setup the rasberry pi for google coral's TPU usb Accelerator.
  
 # Inference:
 
